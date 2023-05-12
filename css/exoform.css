@@ -1,0 +1,14 @@
+.container{
+    width: 40%;
+    margin: auto;
+   }
+
+
+
+#formulaire input{
+    border-radius: 5px;
+    width: 100%;
+    
+}
+
+

@@ -1,0 +1,13 @@
+#myBox {
+    background-color: green;
+    width: 90px;
+    font-weight: 20px;
+    padding: 40px;
+}
+
+#myBox2 {
+    background-color: orangered;
+    width: 90px;
+    font-weight: 20px;
+    padding: 40px;
+}
